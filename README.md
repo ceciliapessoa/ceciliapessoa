@@ -15,6 +15,7 @@ Meu objetivo é aprofundar meus conhecimentos na área de dados, desenvolver pro
             src="https://custom-icon-badges.demolab.com/github/stars/ceciliapessoa?color=ff3c97&style=for-the-badge&labelColor=ef007e&logo=star&label=estrelas"
         />
     </a>
+    
    <a href="https://github.com/ceciliapessoa?tab=followers">
         <img 
             alt="Seguidores" 

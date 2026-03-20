@@ -12,7 +12,7 @@ Meu objetivo é aprofundar meus conhecimentos na área de dados, desenvolver pro
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ceciliapessoa?color=ff3c97&style=for-the-badge&labelColor=ef007e&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/ceciliapessoa?color=ff3c97&style=for-the-badge&labelColor=ef007e&logo=star&label=estrelas" target="_blank"
         />
     </a>
     
@@ -20,7 +20,7 @@ Meu objetivo é aprofundar meus conhecimentos na área de dados, desenvolver pro
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ceciliapessoa?color=7b1fa2&labelColor=6a1b9a&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/ceciliapessoa?color=7b1fa2&labelColor=6a1b9a&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" target="_blank"
         />
     </a>
 </p>
